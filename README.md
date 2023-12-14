@@ -1,6 +1,6 @@
-# IFSPStore
+# Agencia de Recrutamento
 
-#### Projeto desenvolvido para a disciplina de Programação Orientada a Eventos utilizando o modelo de de arquitetura DDD.
+#### Projeto desenvolvido para a disciplina de Programação Orientada a Eventos utilizando o modelo de arquitetura DDD.
 
 ## Feito por Davi Alves da Costa - BI3003957
 
